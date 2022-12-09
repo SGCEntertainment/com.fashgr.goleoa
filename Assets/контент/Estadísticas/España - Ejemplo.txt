@@ -1,0 +1,21 @@
+﻿nº	El equipo de	Juegos	Gafas
+1	Barcelona	14	37
+2	El Real Madrid	14	35
+3	Real Sociedad	14	26
+4	El Atlético De M	14	24
+5	Athletic B	14	24
+6	Betis	        14	24
+7	Osasuna	        14	23
+8	Rayo Vallecano	14	22
+9	Villarreal	14	21
+10	Mallorca	14	19
+11	Valencia	14	19
+12	Valladolid	14	17
+13	Almería	        14	16
+14	Girona	        14	16
+15	Getafe	        14	14
+16	Espanyol	14	12
+17	Celta	        14	12
+18	Sevilla   	14	11
+19	Cádiz	        14	11
+20	Elche	        14	4

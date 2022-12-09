@@ -1,0 +1,21 @@
+﻿nº	El equipo de	Juegos	Gafas
+1	El arsenal	14	37
+2	El Manchester City	14	32
+3	Newcastle United	15	30
+4	Tottenham Hotspur	15	29
+5	El Manchester United	14	26
+6	Liverpool	14	22
+7	Brighton and hove albion	14	21
+8	Chelsea	14	21
+9	Fulham	15	19
+10	Brentford	15	19
+11	Christal Las Mejores Ofertas	14	19
+12	El Aston Villa	15	18
+13	Leicester City	15	17
+14	Bournemouth	15	16
+15	El Leeds United	14	15
+16	West Ham United	15	14
+17	Everton	15	14
+18	El Nottingham Forest	15	13
+19	Southampton	15	12
+20	Вулверхэмптон	15	10

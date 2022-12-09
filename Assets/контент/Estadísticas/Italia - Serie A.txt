@@ -1,0 +1,23 @@
+﻿nº	El equipo de	Juegos	Gafas
+1	Napoli	15	41
+2	Milán	15	33
+3	Juventus	15	31
+4	Lazio	15	30
+5	El Inter De Milán M	15	30
+6	Atalanta	15	27
+7	Los romaníes	15	27
+8	Udinese	15	24
+9	Torino	15	21
+10	Bolonia	15	19
+11	Fiorentina	15	19
+12	Салернитана	15	17
+13	Empoli	15	17
+14	Monza	15	16
+15	Sassuolo	15	16
+16	Lecce	15	15
+17	La spezia	15	13
+18	Кремонезе	15	7
+19	Sampdoria	15	6
+20	Verona	15	5
+			
+			

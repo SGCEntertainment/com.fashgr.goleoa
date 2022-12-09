@@ -1,0 +1,19 @@
+﻿nº	El equipo de	Juegos	Gafas
+1	Bayern	15	34
+2	Freiburg	15	30
+3	Rb leipzig	15	28
+4	Eintracht De F	15	27
+5	Union	15	27
+6	Dortmund	15	25
+7	Wolfsburg	15	23
+8	Borussia M	15	22
+9	Werder bremen	15	21
+10	Mainz	15	19
+11	Hoffenheim	15	18
+12	Bayer	15	18
+13	Colonia	15	17
+14	Augsburg	15	15
+15	Hertha bsc berlin	15	14
+16	Stuttgart	15	14
+17	Bochum	15	13
+18	Schalke 04	15	9
